@@ -1,8 +1,8 @@
 // import Zombie from './Zombie';
-// import orderByProps from './service';
+// import getAattackOptions from './service';
 
 // const obj = new Zombie('Leon');
 
-// const props = orderByProps(obj, ['name', 'level', 'type']);
+// const arrAttackOptions = getAattackOptions(obj);
 
-// console.log(props);
+// console.log(arrAttackOptions);

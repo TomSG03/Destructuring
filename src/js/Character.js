@@ -11,5 +11,19 @@ export default class Character {
     this.type = type;
     this.health = 100;
     this.level = 1;
+    this.special = [
+      {
+        id: 8,
+        name: 'Двойной выстрел',
+        icon: 'http://...',
+        description: 'Двойной выстрел наносит двойной урон',
+      },
+      {
+        id: 9,
+        name: 'Нокаутирующий удар',
+        icon: 'http://...',
+        // <- обратите внимание, описание "засекречено"
+      },
+    ];
   }
 }
