@@ -1,7 +1,7 @@
-// import Zombie from './Zombie';
+// import Bowerman from './Bowerman';
 // import getAattackOptions from './service';
 
-// const obj = new Zombie('Leon');
+// const obj = new Bowerman('Leon');
 
 // const arrAttackOptions = getAattackOptions(obj);
 
